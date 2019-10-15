@@ -11,13 +11,13 @@ Este projeto final tem como objetivo explorar os conhecimentos adquiridos nas au
 </p>
 
 
-## Instruções
+### 1. Instruções
 
 Nas aulas utilizaremos a distribuição Ananconda, com uso intensivo do Jupyter Notebook, que há vem instalado nesta distribuição.
 
 Para instalar, acesse a sessão de [Downloads](https://www.anaconda.com/download) do Anaconda.
 
-### Repositório
+### 2. Repositório
 
 Recomendamos clonar este repositório.
 
@@ -38,13 +38,13 @@ projeto/.ipynb_checkpoints
 .DS_Store
 ````
 
-### Template guiado
+### 3. Template guiado
 
 Utilize o arquivo Jupyter "projeto/object-people-audit.ipynb", siga todas as instruções, completando e construindo os algoritmos necessários.
 
 > **Atenção: o grupo/aluno que não utilizar este template (ou alterar partes indevidas) será automaticamente reprovado.**
 
-### Bibliotecas utilizadas
+### 4. Bibliotecas utilizadas
 
 Este projeto requer **Python 3.5 ou superior** e as seguintes bibliotecas:
 
@@ -59,7 +59,7 @@ Este projeto requer **Python 3.5 ou superior** e as seguintes bibliotecas:
 
 Também será utilizado o modelo de classificação de objetos [YOLOv3](https://pjreddie.com/darknet/yolo/). 
 
-### Critérios de avaliação
+### 5. Critérios de avaliação
 
 O projeto será avaliado pelos seguintes itens abaixo. A nota final será uma composição levando em consideração o peso de cada tema.
 
@@ -72,6 +72,6 @@ O projeto será avaliado pelos seguintes itens abaixo. A nota final será uma co
 
 Nota Final = 2 * n1 + 2 * n2 + n3 + n4 + 2 * n5 + 2 * n6
 
-### Dúvidas
+### 6. Dúvidas
 
 Crie uma [Issue](https://github.com/michelpf/fiap-ml-visao-computacional-capstone/issues/new) com as perguntas para que as dúvidas sejam compartilhados com todos os alunos. Questionamentos particulares devem ser encaminhados pelo e-mail do professor.
