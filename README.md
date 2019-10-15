@@ -17,6 +17,27 @@ Nas aulas utilizaremos a distribuição Ananconda, com uso intensivo do Jupyter 
 
 Para instalar, acesse a sessão de [Downloads](https://www.anaconda.com/download) do Anaconda.
 
+### Repositório
+
+Recomendamos clonar este repositório.
+
+>**Importante**: como serão desenvolvidos modelos com arquivos grandes, é necessário ter um arquivo ```.gitignore``` com o seguinte conteúdo:
+
+```
+projeto/pesos/*
+!projeto/pesos/.gitkeep 
+
+projeto/modelos/*
+!projeto/modelos/.gitkeep 
+
+projeto/classificadores/*
+!projeto/classificadores/.gitkeep 
+
+projeto/.ipynb_checkpoints
+
+.DS_Store
+````
+
 ### Template guiado
 
 Utilize o arquivo Jupyter "projeto/object-people-audit.ipynb", siga todas as instruções, completando e construindo os algoritmos necessários.
