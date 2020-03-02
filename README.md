@@ -50,10 +50,10 @@ Este projeto requer **Python 3.5 ou superior** e as seguintes bibliotecas:
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org/)
-- [matplotlib](http://matplotlib.org/)
-- [seaborn](http://seaborn.pydata.org/)
-- [scikit-learn](http://scikit-learn.org/stable/)
-- [Pytorch](https://pytorch.org/)
+- [Matplotlib](http://matplotlib.org/)
+- [Seaborn](http://seaborn.pydata.org/)
+- [Scikit-learn](http://scikit-learn.org/stable/)
+- [Keras](https://keras.io/)
 - [Dlib](http://dlib.net/)
 - [OpenCV](https://opencv.org/)
 
