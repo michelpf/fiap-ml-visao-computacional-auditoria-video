@@ -1,8 +1,8 @@
-![](https://img.shields.io/github/repo-size/michelpf/fiap-ml-visao-computacional)
-![](https://img.shields.io/github/issues/michelpf/fiap-ml-visao-computacional)
-![](https://img.shields.io/github/stars/michelpf/fiap-ml-visao-computacional)
-![](https://img.shields.io/github/watchers/michelpf/fiap-ml-visao-computacional)
-![](https://img.shields.io/github/last-commit/michelpf/fiap-ml-visao-computacional)
+![](https://img.shields.io/github/repo-size/michelpf/fiap-ml-visao-computacional-capstone)
+![](https://img.shields.io/github/issues/michelpf/fiap-ml-visao-computacional-capstone)
+![](https://img.shields.io/github/stars/michelpf/fiap-ml-visao-computacional-capstone)
+![](https://img.shields.io/github/watchers/michelpf/fiap-ml-visao-computacional-capstone)
+![](https://img.shields.io/github/last-commit/michelpf/fiap-ml-visao-computacional-capstone)
 
 
 # MBA FIAP Inteligência Artificial & Machine Learning
