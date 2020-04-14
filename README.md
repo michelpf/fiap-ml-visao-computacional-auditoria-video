@@ -1,7 +1,16 @@
+![](https://img.shields.io/github/repo-size/michelpf/fiap-ml-visao-computacional)
+![](https://img.shields.io/github/issues/michelpf/fiap-ml-visao-computacional)
+![](https://img.shields.io/github/stars/michelpf/fiap-ml-visao-computacional)
+![](https://img.shields.io/github/watchers/michelpf/fiap-ml-visao-computacional)
+![](https://img.shields.io/github/last-commit/michelpf/fiap-ml-visao-computacional)
+
+
 # MBA FIAP Inteligência Artificial & Machine Learning
+Obtenha mais informações sobre a formação em inteligência artificial e a ementa completa no [portal](https://www.fiap.com.br/mba/mba-em-artificial-intelligence-e-machine-learning/) da FIAP.
 
 ## Visão Computacional Capstone
-## Processamento de imagens aplicada a auditoria automática de vídeo baseada em modelos de deep-learning
+
+### Processamento de imagens aplicada a auditoria automática de vídeo baseada em modelos de deep-learning
 
 
 Este projeto final tem como objetivo explorar os conhecimentos adquiridos nas aulas práticas. Por meio uma trilha guiada para construir uma aplicação que tem por objetivo analisar imagens e extrair uma série de informações que serão utilizadas para compor uma análise de imagens e vídeos afim de construir uma forma de auditoria automatizada baseado em modelos de inteligência artificial.
