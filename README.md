@@ -49,7 +49,9 @@ projeto/.ipynb_checkpoints
 
 ### 3. Template guiado
 
-Utilize o arquivo Jupyter "projeto/object-people-audit.ipynb", siga todas as instruções, completando e construindo os algoritmos necessários.
+📙 Utilize o arquivo Jupyter [```projeto/object-people-audit.ipynb```](https://github.com/michelpf/fiap-ml-visao-computacional-capstone/blob/master/projeto/object-people-audit.ipynb), siga todas as instruções, completando e construindo os algoritmos necessários.
+
+📕 Versão Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-capstone/blob/master/projeto/object-people-audit-colab.ipynb)
 
 > **Atenção: o grupo/aluno que não utilizar este template (ou alterar partes indevidas) será automaticamente reprovado.**
 
