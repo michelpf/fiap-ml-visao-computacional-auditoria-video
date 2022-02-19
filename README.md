@@ -75,7 +75,7 @@ Também será utilizado o modelo de classificação de objetos [YOLOv3](https://
 O projeto será avaliado pelos seguintes itens abaixo. A nota final será uma composição levando em consideração o peso de cada tema.
 
 - Desenvolvimento do modelo de predição de idade (n1 _peso 2_)
-- Desenvolvimento do modelo de predição de gênero  (n2 _peso 2)
+- Desenvolvimento do modelo de predição de gênero  (n2 _peso_ 2)
 - Detecção de faces e extração de região de interesse (n3 _peso 1_)
 - Algoritmo de detecção de objetos (n4 _peso 1_)
 - Processamento de vídeo (n5 _peso 2_)
